@@ -1,0 +1,10 @@
+name: SQLCommander
+
+main: me.tWizT3d_dreamr.SQL.main
+version: 1.0
+author: tWizT3d_dreaMr
+api-version: 1.18
+commands:
+   sql:
+      description: executes an sql statement
+      usage: sql <command>
